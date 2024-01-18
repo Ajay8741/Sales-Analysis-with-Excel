@@ -2,7 +2,7 @@
 
 ## About
 
-### There are four tables in the excel sheet 
+### There are four tables in the [excel sheet](https://github.com/Ajay8741/Sales-Analysis-with-Excel/blob/main/Sales%20Analysis.xlsx) 
 1st - bike_buyers - In this table, the basic details of the customer are given.
 2nd - Sales data - Here all the economic details regarding the data is listed. 
 3rd - Pivot Table 
